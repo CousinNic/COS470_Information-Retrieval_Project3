@@ -3,3 +3,6 @@ if you are however not nic or ryan, then in the directory first place Posts.xml,
 next create a file named Entities, then place Posts.py inside
 
 once this is done run the code segments in order, again excluding the google docs section if you are in fact not nic or ryan.
+
+Note:
+Make sure to set the prefered amount of epocs as it will take ~4-5 mins per epoc on google colab.
